@@ -13,3 +13,5 @@
 > ## 7.webpack --watch 自动监听文件变化，并打包，但不能热更新
 
 > ## 8._webpack-dev-server_：启动本地服务，并且可以热更新
+
+> ## 9._optimization.splitChunks_：分割代码，抽离公共部分，减少代码体积（mini-css-extrack-plugin，css 版本的）
